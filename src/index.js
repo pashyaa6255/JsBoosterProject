@@ -1,6 +1,6 @@
 const api = `https://randomuser.me/api`;
 const addUser = document.getElementById("add-user-btn");
-const sortBtn = document.getElementById("sort");
+
 const sortBtnDesc = document.getElementById("sortDesc");
 const sortBtnAsc = document.getElementById("sortAsc");
 const appState = [];
